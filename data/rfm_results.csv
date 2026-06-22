@@ -1,0 +1,752 @@
+Customer Name,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Score_Numeric,Segment
+Abernathy Group ,0,353,24876667.0,5,2,5,525,12,At Risk
+Abernathy Group Pharmaceutical Limited,731,223,2079222.0,1,2,1,121,4,New
+Abernathy Group Pharmacy,0,390,34635271.0,5,4,5,545,14,Champions
+Abernathy and Sons ,0,376,20722227.0,5,3,4,534,12,Loyal
+Abernathy and Sons Pharmaceutical Limited,0,391,18857078.0,5,4,4,544,13,Champions
+Armstrong Inc Pharm,0,361,24643385.0,5,2,5,525,12,At Risk
+Armstrong Inc Pharma Plc,0,422,12315560.0,5,5,2,552,12,At Risk
+"Armstrong, Medhurst and Bogisich Pharmaceutical Ltd",0,392,20459841.0,5,4,4,544,13,Champions
+"Armstrong, Medhurst and Bogisich Pharmacy",0,385,12992274.0,5,3,2,532,10,At Risk
+Balistreri Group Pharm,0,395,18120449.0,5,4,4,544,13,Champions
+Balistreri Group Pharmaceutical Ltd,731,206,4643931.0,1,1,2,112,4,New
+Balistreri Group Pharmacy,0,381,13660437.0,5,3,2,532,10,At Risk
+"Balistreri, Torp and Gulgowski ",0,412,28802458.0,5,5,5,555,15,Champions
+"Balistreri, Torp and Gulgowski Pharmacy",731,212,2792805.0,1,1,1,111,3,Lost
+Balistreri-Watsica Pharma Plc,0,392,18531755.0,5,4,4,544,13,Champions
+Balistreri-Watsica Pharmacy,731,239,6114088.0,1,2,2,122,5,New
+Barrows Inc ,731,182,3190339.0,1,1,1,111,3,Lost
+Barrows Inc Pharmaceutical Limited,0,372,18879087.0,5,3,4,534,12,Loyal
+Barrows Inc Pharmacy,0,360,26895847.0,5,2,5,525,12,At Risk
+"Barrows, Zboncak and Reichert Pharm",0,405,34539524.0,5,5,5,555,15,Champions
+"Barrows, Zboncak and Reichert Pharma Plc",0,401,11129458.0,5,5,2,552,12,At Risk
+Barrows-Kohler Pharm,0,430,17624215.0,5,5,3,553,13,Loyal
+Barrows-Kohler Pharma Plc,0,397,24862159.0,5,4,5,545,14,Champions
+Bartoletti-Altenwerth ,731,185,1993484.0,1,1,1,111,3,Lost
+Bartoletti-Altenwerth Pharm,0,352,13173562.0,5,2,2,522,9,At Risk
+Barton Ltd Pharm,0,405,26870627.0,5,5,5,555,15,Champions
+Barton Ltd Pharma Plc,731,191,2789921.0,1,1,1,111,3,Lost
+Barton Ltd Pharmaceutical Limited,0,365,19688697.0,5,2,4,524,11,At Risk
+Bashirian Group ,0,359,12813673.0,5,2,2,522,9,At Risk
+Bashirian Group Pharmacy,0,365,18573169.0,5,2,4,524,11,At Risk
+Bashirian-Kassulke Pharma Plc,731,214,1997481.0,1,2,1,121,4,New
+Bashirian-Kassulke Pharmacy,0,384,20508727.0,5,3,4,534,12,Loyal
+Bayer LLC ,0,417,34834444.0,5,5,5,555,15,Champions
+Bayer LLC Pharm,0,381,12960048.0,5,3,2,532,10,At Risk
+Bayer LLC Pharmaceutical Ltd,731,205,2324731.0,1,1,1,111,3,Lost
+"Beahan, Littel and Ondricka ",0,362,15585678.0,5,2,3,523,10,At Risk
+"Beahan, Littel and Ondricka Pharma Plc",0,373,17506161.0,5,3,3,533,11,Loyal
+"Beahan, Littel and Ondricka Pharmacy",731,199,2399758.0,1,1,1,111,3,Lost
+"Beer, Kohler and Beatty ",0,389,27426626.0,5,4,5,545,14,Champions
+"Beer, Kohler and Beatty Pharmaceutical Ltd",731,216,2959937.0,1,2,1,121,4,New
+"Beer, Kohler and Beatty Pharmacy",0,387,20164440.0,5,4,4,544,13,Champions
+Beier PLC ,0,405,13148370.25753,5,5,2,552,12,At Risk
+Beier PLC Pharm,0,426,25378116.40704,5,5,5,555,15,Champions
+Beier PLC Pharma Plc,0,380,22310763.0,5,3,5,535,13,Loyal
+Beier PLC Pharmacy,731,202,3264824.0,1,1,1,111,3,Lost
+"Bernier, Murphy and Rau Pharma Plc",0,368,14620034.0,5,2,2,522,9,At Risk
+"Bernier, Murphy and Rau Pharmaceutical Limited",0,392,25860721.0,5,4,5,545,14,Champions
+"Bernier, Murphy and Rau Pharmaceutical Ltd",731,164,4338922.0,1,1,2,112,4,New
+"Blanda, Stehr and Gleason Pharma Plc",0,389,17899263.0,5,4,3,543,12,Loyal
+"Blanda, Stehr and Gleason Pharmaceutical Ltd",0,361,15502581.0,5,2,3,523,10,At Risk
+"Blick, Pacocha and Schowalter ",731,225,4866124.0,1,2,2,122,5,New
+"Blick, Pacocha and Schowalter Pharmaceutical Limited",0,388,12122039.0,5,4,2,542,11,At Risk
+"Blick, Pacocha and Schowalter Pharmacy",0,385,12145917.0,5,3,2,532,10,At Risk
+"Block, Thiel and Kuphal Pharm",0,372,19367044.0,5,3,4,534,12,Loyal
+"Block, Thiel and Kuphal Pharmaceutical Limited",0,382,17154476.0,5,3,3,533,11,Loyal
+Block-Romaguera ,0,412,21344191.0,5,5,4,554,14,Champions
+Block-Romaguera Pharmaceutical Limited,731,217,3611190.0,1,2,1,121,4,New
+Block-Romaguera Pharmacy,0,382,15793125.0,5,3,3,533,11,Loyal
+"Bogan, Jacobs and Kris Pharmaceutical Limited",0,380,13625131.0,5,3,2,532,10,At Risk
+"Bogan, Jacobs and Kris Pharmaceutical Ltd",0,378,31085593.0,5,3,5,535,13,Loyal
+"Bogan, Jacobs and Kris Pharmacy",731,207,2456080.0,1,1,1,111,3,Lost
+Bosco-Marquardt Pharm,731,196,3124277.0,1,1,1,111,3,Lost
+Bosco-Marquardt Pharmaceutical Limited,0,368,25433148.0,5,2,5,525,12,At Risk
+Bosco-Marquardt Pharmaceutical Ltd,0,386,29978482.0,5,4,5,545,14,Champions
+Botsford PLC ,0,427,24768128.0,5,5,5,555,15,Champions
+Botsford PLC Pharmacy,731,188,3338687.0,1,1,1,111,3,Lost
+Botsford and Sons ,0,399,20852469.0,5,4,4,544,13,Champions
+Botsford and Sons Pharma Plc,0,398,16780942.0,5,4,3,543,12,Loyal
+Botsford and Sons Pharmaceutical Ltd,731,206,4444486.0,1,1,2,112,4,New
+Boyer and Sons ,0,419,17718374.0,5,5,3,553,13,Loyal
+Boyer and Sons Pharmaceutical Limited,731,229,6574331.0,1,2,2,122,5,New
+Boyer and Sons Pharmaceutical Ltd,0,425,15911451.0,5,5,3,553,13,Loyal
+"Brakus, Rempel and Harber Pharm",0,400,13020611.0,5,4,2,542,11,At Risk
+"Brakus, Rempel and Harber Pharma Plc",731,175,1780951.0,1,1,1,111,3,Lost
+"Brakus, Rempel and Harber Pharmacy",0,415,18095126.0,5,5,4,554,14,Champions
+Breitenberg-Kuhn ,0,377,14175297.0,5,3,2,532,10,At Risk
+Breitenberg-Kuhn Pharma Plc,0,365,19173245.0,5,2,4,524,11,At Risk
+Breitenberg-Kuhn Pharmacy,731,208,3648594.0,1,1,1,111,3,Lost
+Buckridge Inc Pharm,0,373,18752650.0,5,3,4,534,12,Loyal
+Buckridge Inc Pharmaceutical Limited,0,417,19855032.0,5,5,4,554,14,Champions
+"Buckridge, Dach and Carroll ",0,399,18470960.0,5,4,4,544,13,Champions
+"Buckridge, Dach and Carroll Pharmaceutical Limited",731,195,2606825.0,1,1,1,111,3,Lost
+"Buckridge, Dach and Carroll Pharmaceutical Ltd",0,407,25142017.0,5,5,5,555,15,Champions
+"Buckridge, Hand and Hyatt ",0,377,13511491.0,5,3,2,532,10,At Risk
+"Buckridge, Hand and Hyatt Pharma Plc",731,210,4539521.0,1,1,2,112,4,New
+"Buckridge, Hand and Hyatt Pharmaceutical Ltd",0,417,36107411.0,5,5,5,555,15,Champions
+Buckridge-Davis ,731,197,2894720.0,1,1,1,111,3,Lost
+Buckridge-Davis Pharmaceutical Limited,0,403,26096674.0,5,5,5,555,15,Champions
+Buckridge-Davis Pharmaceutical Ltd,0,412,17481679.0,5,5,3,553,13,Loyal
+Buckridge-Strosin Pharma Plc,0,412,30221186.0,5,5,5,555,15,Champions
+Buckridge-Strosin Pharmaceutical Limited,731,184,2717132.0,1,1,1,111,3,Lost
+Buckridge-Strosin Pharmaceutical Ltd,0,355,33261230.3419,5,2,5,525,12,At Risk
+Carter-Conn Pharm,0,376,17098169.0,5,3,3,533,11,Loyal
+Carter-Conn Pharma Plc,731,222,6825490.0,1,2,2,122,5,New
+Carter-Conn Pharmaceutical Ltd,0,402,16124613.0,5,5,3,553,13,Loyal
+Cartwright-Fay ,0,400,17323557.0,5,4,3,543,12,Loyal
+Cartwright-Fay Pharmaceutical Ltd,0,372,16730721.0,5,3,3,533,11,Loyal
+"Casper, Hyatt and Jakubowski Pharmaceutical Limited",731,203,2748326.0,1,1,1,111,3,Lost
+"Casper, Hyatt and Jakubowski Pharmaceutical Ltd",0,405,24533946.0,5,5,5,555,15,Champions
+"Casper, Hyatt and Jakubowski Pharmacy",0,348,16258870.0,5,2,3,523,10,At Risk
+Cassin PLC Pharma Plc,0,401,26126485.0,5,5,5,555,15,Champions
+Cassin PLC Pharmaceutical Limited,0,408,21760605.0,5,5,4,554,14,Champions
+Cassin PLC Pharmacy,731,218,3055438.0,1,2,1,121,4,New
+Collins-Schmidt Pharma Plc,0,373,13474719.361,5,3,2,532,10,At Risk
+Collins-Schmidt Pharmaceutical Limited,0,386,12781136.0,5,4,2,542,11,At Risk
+"Corkery, Trantow and Ferry Pharm",0,387,26198762.0,5,4,5,545,14,Champions
+"Corkery, Trantow and Ferry Pharma Plc",0,375,20195908.0,5,3,4,534,12,Loyal
+Corkery-Kovacek Pharm,0,436,30091420.0,5,5,5,555,15,Champions
+Corkery-Kovacek Pharma Plc,0,384,22438560.0,5,3,5,535,13,Loyal
+"Cormier, Dietrich and Zulauf Pharma Plc",731,184,4507086.0,1,1,2,112,4,New
+"Cormier, Dietrich and Zulauf Pharmaceutical Limited",0,377,19559458.0,5,3,4,534,12,Loyal
+"Cormier, Dietrich and Zulauf Pharmacy",0,393,28329883.0,5,4,5,545,14,Champions
+Cremin-Zemlak Pharma Plc,0,370,14709283.0,5,2,3,523,10,At Risk
+Cremin-Zemlak Pharmaceutical Limited,0,366,16188040.0,5,2,3,523,10,At Risk
+Crist Inc ,731,217,5137959.0,1,2,2,122,5,New
+Crist Inc Pharma Plc,0,381,14113368.0,5,3,2,532,10,At Risk
+Crist Inc Pharmaceutical Ltd,0,371,13297454.0,5,3,2,532,10,At Risk
+Crist LLC ,0,363,14504025.0,5,2,2,522,9,At Risk
+Crist LLC Pharma Plc,0,367,17935445.0,5,2,4,524,11,At Risk
+Crist Ltd Pharma Plc,0,374,14899138.0,5,3,3,533,11,Loyal
+"Crist, Wisoky and Nolan Pharm",0,371,22827209.0,5,3,5,535,13,Loyal
+"Crist, Wisoky and Nolan Pharmaceutical Limited",0,379,15833467.0,5,3,3,533,11,Loyal
+"Crist, Wisoky and Nolan Pharmaceutical Ltd",731,222,4637033.0,1,2,2,122,5,New
+Crona Group ,0,378,15164236.5,5,3,3,533,11,Loyal
+Crona Group Pharma Plc,731,206,3129089.0,1,1,1,111,3,Lost
+Crona PLC Pharma Plc,731,210,2047523.0,1,1,1,111,3,Lost
+Crona PLC Pharmaceutical Ltd,0,409,21130726.0,5,5,4,554,14,Champions
+Crona PLC Pharmacy,0,380,15562126.0,5,3,3,533,11,Loyal
+Cummings LLC ,0,342,15615225.0,5,2,3,523,10,At Risk
+Cummings LLC Pharmaceutical Ltd,0,368,20236110.0,5,2,4,524,11,At Risk
+D'Amore and Sons ,731,209,2652079.0,1,1,1,111,3,Lost
+D'Amore and Sons Pharm,0,428,26467886.0,5,5,5,555,15,Champions
+D'Amore and Sons Pharmacy,0,421,14282238.0,5,5,2,552,12,At Risk
+Dach Ltd Pharm,0,399,16935870.0,5,4,3,543,12,Loyal
+Dach Ltd Pharma Plc,0,413,20993338.0,5,5,4,554,14,Champions
+Dach PLC ,0,370,18546157.0,5,2,4,524,11,At Risk
+Dach PLC Pharm,0,376,26222321.0,5,3,5,535,13,Loyal
+"Daniel, Baumbach and Nitzsche ",0,376,23306130.0,5,3,5,535,13,Loyal
+"Daniel, Baumbach and Nitzsche Pharmacy",0,374,13915632.5089,5,3,2,532,10,At Risk
+Daugherty-Rempel Pharm,0,415,23762988.0,5,5,5,555,15,Champions
+Daugherty-Rempel Pharma Plc,731,191,4546602.0,1,1,2,112,4,New
+Daugherty-Rempel Pharmaceutical Limited,0,386,17559603.0,5,4,3,543,12,Loyal
+"Denesik, Walter and Beatty ",0,382,12650974.0,5,3,2,532,10,At Risk
+"Denesik, Walter and Beatty Pharma Plc",731,210,3484514.0,1,1,1,111,3,Lost
+"Denesik, Walter and Beatty Pharmacy",0,408,15682041.0,5,5,3,553,13,Loyal
+Denesik-Hintz Pharm,731,222,2392035.0,1,2,1,121,4,New
+Denesik-Hintz Pharma Plc,0,380,14681500.0,5,3,3,533,11,Loyal
+Denesik-Hintz Pharmaceutical Limited,0,356,14276666.0,5,2,2,522,9,At Risk
+Doyle-Tillman Pharm,0,379,17738035.0,5,3,3,533,11,Loyal
+Doyle-Tillman Pharmaceutical Limited,0,404,21692895.0,5,5,4,554,14,Champions
+Doyle-Tillman Pharmaceutical Ltd,731,219,7158142.0,1,2,2,122,5,New
+Durgan-Rice Pharmaceutical Ltd,0,389,19881661.979592,5,4,4,544,13,Champions
+Durgan-Rice Pharmacy,0,391,18052321.0,5,4,4,544,13,Champions
+"Effertz, Heaney and Tillman Pharm",0,397,16753635.0,5,4,3,543,12,Loyal
+"Effertz, Heaney and Tillman Pharma Plc",0,418,17984317.0,5,5,4,554,14,Champions
+"Effertz, Heaney and Tillman Pharmaceutical Ltd",731,218,3432986.0,1,2,1,121,4,New
+Emard-O'Connell Pharm,0,388,19971681.0,5,4,4,544,13,Champions
+Emard-O'Connell Pharmaceutical Ltd,0,408,20531534.0,5,5,4,554,14,Champions
+Emard-O'Connell Pharmacy,731,196,3676546.0,1,1,1,111,3,Lost
+Erdman PLC ,0,370,18568129.0,5,2,4,524,11,At Risk
+Erdman PLC Pharma Plc,0,374,15429328.0,5,3,3,533,11,Loyal
+Erdman PLC Pharmacy,731,198,3183228.0,1,1,1,111,3,Lost
+"Erdman, Senger and Oberbrunner Pharm",731,204,4230846.0,1,1,2,112,4,New
+"Erdman, Senger and Oberbrunner Pharmaceutical Ltd",0,353,14186478.0,5,2,2,522,9,At Risk
+"Erdman, Senger and Oberbrunner Pharmacy",0,403,22043224.0,5,5,5,555,15,Champions
+Fadel-West ,731,172,3189603.0,1,1,1,111,3,Lost
+Fadel-West Pharmaceutical Ltd,0,365,36767294.0,5,2,5,525,12,At Risk
+Fadel-West Pharmacy,0,369,40355816.0,5,2,5,525,12,At Risk
+Fahey-Flatley ,0,381,14572760.0,5,3,2,532,10,At Risk
+Fahey-Flatley Pharmaceutical Ltd,0,405,21702505.0,5,5,4,554,14,Champions
+Fahey-Prosacco Pharmaceutical Limited,0,364,24011986.0,5,2,5,525,12,At Risk
+Fahey-Prosacco Pharmacy,0,389,18990780.0,5,4,4,544,13,Champions
+Feest PLC ,731,183,2021466.0,1,1,1,111,3,Lost
+Feest PLC Pharmaceutical Limited,0,381,22126737.0,5,3,5,535,13,Loyal
+Feest PLC Pharmaceutical Ltd,0,393,18496533.0,5,4,4,544,13,Champions
+Feest-Kshlerin ,0,393,13525280.0,5,4,2,542,11,At Risk
+Feest-Kshlerin Pharma Plc,0,372,10446536.0,5,3,2,532,10,At Risk
+Feest-Kshlerin Pharmaceutical Ltd,731,205,5283949.0,1,1,2,112,4,New
+Feest-Roob Pharmaceutical Limited,0,419,16699897.0,5,5,3,553,13,Loyal
+Feest-Roob Pharmaceutical Ltd,731,196,2705799.0,1,1,1,111,3,Lost
+Feest-Roob Pharmacy,0,377,12432676.0,5,3,2,532,10,At Risk
+Franecki Inc Pharma Plc,0,407,14514932.0,5,5,2,552,12,At Risk
+Franecki Inc Pharmacy,0,396,16460568.0,5,4,3,543,12,Loyal
+Friesen Group ,0,396,17341092.0,5,4,3,543,12,Loyal
+Friesen Group Pharm,0,392,24254576.0,5,4,5,545,14,Champions
+Fritsch LLC Pharm,0,401,18245919.0,5,5,4,554,14,Champions
+Fritsch LLC Pharmaceutical Ltd,0,378,24462902.0,5,3,5,535,13,Loyal
+"Fritsch, Hodkiewicz and Sipes Pharma Plc",0,437,23370239.0,5,5,5,555,15,Champions
+"Fritsch, Hodkiewicz and Sipes Pharmacy",0,365,13618070.0,5,2,2,522,9,At Risk
+Fritsch-Hauck Pharm,0,346,13243526.0,5,2,2,522,9,At Risk
+Fritsch-Hauck Pharma Plc,731,207,2973355.0,1,1,1,111,3,Lost
+Fritsch-Hauck Pharmaceutical Ltd,0,367,20050325.0,5,2,4,524,11,At Risk
+Funk PLC Pharm,0,408,17589925.00639,5,5,3,553,13,Loyal
+Funk PLC Pharma Plc,0,407,15286470.0,5,5,3,553,13,Loyal
+Funk PLC Pharmaceutical Limited,731,214,4191722.0,1,2,2,122,5,New
+Funk and Sons Pharm,0,393,13871742.0,5,4,2,542,11,At Risk
+Funk and Sons Pharmaceutical Limited,731,204,3182287.0,1,1,1,111,3,Lost
+Funk and Sons Pharmacy,0,390,27629333.6,5,4,5,545,14,Champions
+"Funk, Ratke and Heaney ",0,386,29152180.0,5,4,5,545,14,Champions
+"Funk, Ratke and Heaney Pharma Plc",0,397,18351514.0,5,4,4,544,13,Champions
+"Funk, Ratke and Heaney Pharmacy",731,206,3897042.0,1,1,1,111,3,Lost
+"Gerhold, Mills and Effertz ",0,388,10508296.0,5,4,2,542,11,At Risk
+"Gerhold, Mills and Effertz Pharm",731,186,3138581.0,1,1,1,111,3,Lost
+"Gerhold, Mills and Effertz Pharma Plc",0,382,10465861.0,5,3,2,532,10,At Risk
+Gerlach LLC ,731,220,3319091.0,1,2,1,121,4,New
+Gerlach LLC Pharma Plc,0,408,15092746.0,5,5,3,553,13,Loyal
+Gerlach LLC Pharmacy,0,388,18156445.25,5,4,4,544,13,Champions
+Gerlach PLC Pharmaceutical Ltd,0,381,18232829.0,5,3,4,534,12,Loyal
+Gibson-Hill ,0,391,18790176.0,5,4,4,544,13,Champions
+Gibson-Hill Pharma Plc,731,227,3867089.0,1,2,1,121,4,New
+Gibson-Hill Pharmaceutical Limited,0,406,24554301.0,5,5,5,555,15,Champions
+Gleason PLC Pharma Plc,0,382,18345826.0,5,3,4,534,12,Loyal
+Gleason PLC Pharmaceutical Limited,0,378,22282456.0,5,3,5,535,13,Loyal
+"Gleichner, Bahringer and Morar Pharma Plc",731,217,3312361.0,1,2,1,121,4,New
+"Gleichner, Bahringer and Morar Pharmaceutical Limited",0,388,43779381.0,5,4,5,545,14,Champions
+"Gleichner, Bahringer and Morar Pharmacy",0,384,15652843.0,5,3,3,533,11,Loyal
+Goldner-Tillman Pharm,0,396,37935553.0,5,4,5,545,14,Champions
+Goldner-Tillman Pharmacy,0,399,22575320.0,5,4,5,545,14,Champions
+Gottlieb-Cruickshank Pharm,0,386,16287002.0,5,4,3,543,12,Loyal
+Gottlieb-Cruickshank Pharma Plc,731,213,2848546.0,1,2,1,121,4,New
+Gottlieb-Koss Pharm,0,391,30339224.0,5,4,5,545,14,Champions
+Gottlieb-Koss Pharmacy,0,373,17658742.0,5,3,3,533,11,Loyal
+Graham and Sons Pharm,0,393,21646429.68342,5,4,4,544,13,Champions
+Graham and Sons Pharma Plc,0,385,18293117.0,5,3,4,534,12,Loyal
+Graham and Sons Pharmacy,731,201,2682005.0,1,1,1,111,3,Lost
+"Greenholt, Donnelly and O'Reilly Pharmaceutical Limited",731,211,2195889.0,1,1,1,111,3,Lost
+"Greenholt, Donnelly and O'Reilly Pharmaceutical Ltd",0,375,17688642.0,5,3,3,533,11,Loyal
+"Grimes, Jacobs and Durgan Pharm",731,190,2243375.0,1,1,1,111,3,Lost
+"Grimes, Jacobs and Durgan Pharma Plc",0,389,18473363.0,5,4,4,544,13,Champions
+Gulgowski-Vandervort Pharm,0,428,16454043.0,5,5,3,553,13,Loyal
+Gulgowski-Vandervort Pharma Plc,0,384,26263639.0,5,3,5,535,13,Loyal
+"Haag, Bradtke and Terry ",0,429,36155634.0,5,5,5,555,15,Champions
+"Haag, Bradtke and Terry Pharm",0,405,11107603.0,5,5,2,552,12,At Risk
+"Haag, Bradtke and Terry Pharmacy",731,200,2105639.0,1,1,1,111,3,Lost
+"Hahn, Rutherford and Gislason Pharm",0,388,12465536.0,5,4,2,542,11,At Risk
+"Hahn, Rutherford and Gislason Pharmaceutical Limited",731,200,2348617.0,1,1,1,111,3,Lost
+"Hahn, Rutherford and Gislason Pharmacy",0,401,13647046.0,5,5,2,552,12,At Risk
+Haley PLC Pharmaceutical Limited,731,188,3083122.0,1,1,1,111,3,Lost
+Haley PLC Pharmacy,0,370,23473886.0,5,2,5,525,12,At Risk
+"Hammes, Bashirian and Pacocha ",0,384,13911219.0,5,3,2,532,10,At Risk
+"Hammes, Bashirian and Pacocha Pharmacy",0,383,11667849.0,5,3,2,532,10,At Risk
+Hane Ltd ,0,398,21229550.244147,5,4,4,544,13,Champions
+Hane Ltd Pharmaceutical Ltd,0,368,18353020.0,5,2,4,524,11,At Risk
+Hansen Group Pharm,731,211,3631981.0,1,1,1,111,3,Lost
+Hansen Group Pharmacy,0,399,17569970.0,5,4,3,543,12,Loyal
+"Hansen, Fadel and Schroeder Pharm",731,210,2225392.0,1,1,1,111,3,Lost
+"Hansen, Fadel and Schroeder Pharma Plc",0,399,18012485.0,5,4,4,544,13,Champions
+"Hansen, Fadel and Schroeder Pharmaceutical Ltd",0,412,18099093.0,5,5,4,554,14,Champions
+"Harris, Daugherty and Okuneva Pharm",0,408,27261177.0,5,5,5,555,15,Champions
+"Harris, Daugherty and Okuneva Pharma Plc",731,197,1948473.0,1,1,1,111,3,Lost
+"Harris, Daugherty and Okuneva Pharmaceutical Limited",0,374,17697168.0,5,3,3,533,11,Loyal
+Harris-Conroy Pharm,0,421,23313821.0,5,5,5,555,15,Champions
+Harris-Conroy Pharmacy,0,383,18059065.0,5,3,4,534,12,Loyal
+Hartmann-Wolf ,731,192,2101036.0,1,1,1,111,3,Lost
+Hartmann-Wolf Pharmaceutical Limited,0,394,15002150.0,5,4,3,543,12,Loyal
+Hartmann-Wolf Pharmacy,0,407,22818672.0,5,5,5,555,15,Champions
+Hayes-Kilback Pharma Plc,0,399,20511137.0,5,4,4,544,13,Champions
+Hayes-Kilback Pharmaceutical Limited,0,379,37181108.0,5,3,5,535,13,Loyal
+Hayes-Kilback Pharmaceutical Ltd,731,217,3964929.0,1,2,1,121,4,New
+"Heathcote, Grant and Witting Pharm",731,221,3030441.0,1,2,1,121,4,New
+"Heathcote, Grant and Witting Pharmaceutical Limited",0,396,22097548.0,5,4,5,545,14,Champions
+"Heathcote, Grant and Witting Pharmacy",0,364,29273736.0,5,2,5,525,12,At Risk
+"Heathcote, Kovacek and Parker ",0,409,16331539.0,5,5,3,553,13,Loyal
+Heidenreich Group Pharm,0,399,14083983.63317,5,4,2,542,11,At Risk
+Heidenreich Group Pharmaceutical Ltd,731,209,3849892.0,1,1,1,111,3,Lost
+Heidenreich Group Pharmacy,0,400,30216194.0,5,4,5,545,14,Champions
+Heller-Abernathy ,731,210,4394462.0,1,1,2,112,4,New
+Heller-Abernathy Pharma Plc,0,400,17794218.0,5,4,3,543,12,Loyal
+Heller-Abernathy Pharmaceutical Limited,0,402,20685879.0,5,5,4,554,14,Champions
+"Herman, Rice and Rippin ",731,206,2270513.0,1,1,1,111,3,Lost
+"Herman, Rice and Rippin Pharm",0,409,20974624.0,5,5,4,554,14,Champions
+"Herman, Rice and Rippin Pharmaceutical Limited",0,401,27376951.0,5,5,5,555,15,Champions
+Herman-Koss Pharm,731,201,3426586.0,1,1,1,111,3,Lost
+Herman-Koss Pharmaceutical Limited,0,389,20436900.04348,5,4,4,544,13,Champions
+Herman-Koss Pharmaceutical Ltd,0,392,22849800.0,5,4,5,545,14,Champions
+Hermiston LLC ,731,214,3507057.0,1,2,1,121,4,New
+Hermiston LLC Pharm,0,366,14705734.0,5,2,3,523,10,At Risk
+Hermiston LLC Pharmaceutical Limited,0,384,18657693.7652,5,3,4,534,12,Loyal
+Hermiston LLC Pharmaceutical Ltd,0,371,16170352.0,5,3,3,533,11,Loyal
+Hermiston and Sons Pharma Plc,731,219,2715991.0,1,2,1,121,4,New
+Hermiston and Sons Pharmaceutical Ltd,0,403,16744798.0,5,5,3,553,13,Loyal
+Hermiston and Sons Pharmacy,0,392,17283582.0,5,4,3,543,12,Loyal
+Hill Ltd ,731,213,3483214.0,1,2,1,121,4,New
+Hill Ltd Pharma Plc,0,348,13628308.0,5,2,2,522,9,At Risk
+Hill Ltd Pharmaceutical Limited,0,373,15510941.0,5,3,3,533,11,Loyal
+Hill-Daniel ,0,374,20537571.0,5,3,4,534,12,Loyal
+Hill-Daniel Pharmaceutical Ltd,0,380,27600353.0,5,3,5,535,13,Loyal
+"Hills, Stroman and Ernser ",0,390,15665366.0,5,4,3,543,12,Loyal
+"Hills, Stroman and Ernser Pharm",731,197,2448488.0,1,1,1,111,3,Lost
+"Hills, Stroman and Ernser Pharmaceutical Ltd",0,378,15004858.0,5,3,3,533,11,Loyal
+"Hirthe, Williamson and Macejkovic ",0,419,20701441.0,5,5,4,554,14,Champions
+"Hirthe, Williamson and Macejkovic Pharma Plc",731,206,2735314.0,1,1,1,111,3,Lost
+"Hirthe, Williamson and Macejkovic Pharmacy",0,391,19467179.0,5,4,4,544,13,Champions
+Hoeger Ltd ,0,382,23303292.0,5,3,5,535,13,Loyal
+Hoeger Ltd Pharm,0,372,30914624.0,5,3,5,535,13,Loyal
+Homenick-Larson ,0,392,16467605.0,5,4,3,543,12,Loyal
+Homenick-Larson Pharmaceutical Ltd,0,390,17315988.0,5,4,3,543,12,Loyal
+Huel Inc Pharm,0,392,24169351.0,5,4,5,545,14,Champions
+Huels-Klein ,0,403,23946371.0,5,5,5,555,15,Champions
+Huels-Klein Pharmaceutical Ltd,0,391,14550335.0,5,4,2,542,11,At Risk
+Jacobs-Jones Pharma Plc,0,382,18970897.0,5,3,4,534,12,Loyal
+Jacobs-Jones Pharmaceutical Ltd,0,361,17303434.0,5,2,3,523,10,At Risk
+Jakubowski Inc Pharma Plc,0,416,13945119.0,5,5,2,552,12,At Risk
+Jakubowski Inc Pharmaceutical Limited,731,226,4784385.0,1,2,2,122,5,New
+Jakubowski Inc Pharmacy,0,380,22199526.0,5,3,5,535,13,Loyal
+Jast-Cruickshank Pharma Plc,731,207,3665136.0,1,1,1,111,3,Lost
+Jast-Cruickshank Pharmaceutical Ltd,0,382,19451890.0,5,3,4,534,12,Loyal
+Jast-Cruickshank Pharmacy,0,365,12331196.0,5,2,2,522,9,At Risk
+"Johns, Mueller and Nitzsche ",0,384,24712891.0,5,3,5,535,13,Loyal
+"Johns, Mueller and Nitzsche Pharma Plc",0,366,17268947.0,5,2,3,523,10,At Risk
+"Johnson, Friesen and Torphy Pharm",0,379,12656990.0,5,3,2,532,10,At Risk
+"Johnson, Friesen and Torphy Pharma Plc",731,189,3226534.0,1,1,1,111,3,Lost
+Keeling LLC Pharmaceutical Limited,0,422,26532373.0,5,5,5,555,15,Champions
+Keeling LLC Pharmacy,731,184,4530078.0,1,1,2,112,4,New
+"Kertzmann, Quitzon and Harris ",0,395,20021173.0,5,4,4,544,13,Champions
+"Kertzmann, Quitzon and Harris Pharma Plc",731,193,2819581.0,1,1,1,111,3,Lost
+"Kertzmann, Quitzon and Harris Pharmaceutical Limited",0,382,14835040.0,5,3,3,533,11,Loyal
+Kertzmann-Ward Pharma Plc,731,197,3495786.0,1,1,1,111,3,Lost
+Kertzmann-Ward Pharmaceutical Limited,0,378,23151949.0,5,3,5,535,13,Loyal
+Kihn Group ,0,401,26209384.0,5,5,5,555,15,Champions
+Kihn Group Pharm,0,379,11299828.0,5,3,2,532,10,At Risk
+Kihn Group Pharmaceutical Limited,0,390,21723459.0,5,4,4,544,13,Champions
+"Kilback, Beer and Batz ",0,369,23566905.0,5,2,5,525,12,At Risk
+"Kilback, Beer and Batz Pharma Plc",731,204,5009905.0,1,1,2,112,4,New
+"Kirlin, Hamill and Dickinson Pharma Plc",0,361,13231664.0,5,2,2,522,9,At Risk
+"Kirlin, Hamill and Dickinson Pharmaceutical Limited",0,363,12394267.0,5,2,2,522,9,At Risk
+Kling Inc ,0,374,15751199.0,5,3,3,533,11,Loyal
+Kling Inc Pharm,0,388,13323467.0,5,4,2,542,11,At Risk
+Kling Inc Pharmaceutical Ltd,731,203,4017753.0,1,1,2,112,4,New
+"Koch, Borer and Hagenes ",731,206,2787706.0,1,1,1,111,3,Lost
+"Koch, Borer and Hagenes Pharm",0,383,26877575.0,5,3,5,535,13,Loyal
+"Koch, Borer and Hagenes Pharmaceutical Ltd",0,406,17054360.0,5,5,3,553,13,Loyal
+Koch-Osinski Pharm,731,185,2336644.0,1,1,1,111,3,Lost
+Koch-Osinski Pharmaceutical Ltd,0,392,13539952.0,5,4,2,542,11,At Risk
+Koch-Osinski Pharmacy,0,370,18643316.0,5,2,4,524,11,At Risk
+"Koelpin, Luettgen and Abernathy Pharmaceutical Ltd",0,413,20073196.0,5,5,4,554,14,Champions
+"Koelpin, Luettgen and Abernathy Pharmacy",0,389,18731547.0,5,4,4,544,13,Champions
+Kohler-Bednar Pharm,0,375,26531140.0,5,3,5,535,13,Loyal
+Kohler-Bednar Pharmaceutical Ltd,0,406,21231109.0,5,5,4,554,14,Champions
+Konopelski-Blick ,0,374,12360135.0,5,3,2,532,10,At Risk
+Konopelski-Blick Pharmaceutical Limited,0,377,14748118.0,5,3,3,533,11,Loyal
+Koss Ltd Pharma Plc,0,403,18642972.0,5,5,4,554,14,Champions
+Koss Ltd Pharmaceutical Limited,731,202,6361234.0,1,1,2,112,4,New
+Koss Ltd Pharmaceutical Ltd,0,397,20745807.31658,5,4,4,544,13,Champions
+Koss-Beier ,731,230,3560602.0,1,2,1,121,4,New
+Koss-Beier Pharmaceutical Limited,0,394,12833771.0,5,4,2,542,11,At Risk
+Koss-Beier Pharmacy,0,408,22042100.202429,5,5,4,554,14,Champions
+Kozey Ltd Pharma Plc,0,410,36209584.0,5,5,5,555,15,Champions
+Kozey Ltd Pharmaceutical Ltd,731,202,3927833.0,1,1,1,111,3,Lost
+Kozey Ltd Pharmacy,0,372,21782008.0,5,3,4,534,12,Loyal
+Kozey-Emmerich ,0,388,20673989.0,5,4,4,544,13,Champions
+Kozey-Emmerich Pharmacy,0,389,24471675.0,5,4,5,545,14,Champions
+Kozey-Schroeder ,731,211,2692556.0,1,1,1,111,3,Lost
+Kozey-Schroeder Pharm,0,370,14886170.0,5,2,3,523,10,At Risk
+Kozey-Schroeder Pharma Plc,0,372,14723207.0,5,3,3,533,11,Loyal
+Kreiger Inc ,0,337,15567095.0,5,2,3,523,10,At Risk
+Kreiger Inc Pharm,0,395,20444291.0,5,4,4,544,13,Champions
+Kreiger Inc Pharma Plc,731,224,7063000.0,1,2,2,122,5,New
+Kris LLC Pharm,0,431,20255777.0,5,5,4,554,14,Champions
+Kris LLC Pharmaceutical Limited,0,409,13490977.0,5,5,2,552,12,At Risk
+Kris LLC Pharmaceutical Ltd,0,354,15762953.0,5,2,3,523,10,At Risk
+Kris LLC Pharmacy,0,364,18272447.0,5,2,4,524,11,At Risk
+"Kshlerin, Ryan and Leuschke ",0,422,16996416.0,5,5,3,553,13,Loyal
+"Kshlerin, Ryan and Leuschke Pharm",0,382,15476722.0,5,3,3,533,11,Loyal
+"Kshlerin, Ryan and Leuschke Pharma Plc",731,212,3293958.0,1,1,1,111,3,Lost
+"Kub, Von and Herzog Pharmaceutical Limited",0,373,19622265.0,5,3,4,534,12,Loyal
+"Kub, Von and Herzog Pharmaceutical Ltd",0,369,17819138.0,5,2,3,523,10,At Risk
+"Kub, Von and Herzog Pharmacy",731,192,3602060.0,1,1,1,111,3,Lost
+Kuhic LLC ,0,372,17671833.0,5,3,3,533,11,Loyal
+Kuhic LLC Pharma Plc,731,189,2423879.0,1,1,1,111,3,Lost
+Kuhic LLC Pharmaceutical Limited,0,404,11710499.77551,5,5,2,552,12,At Risk
+Kunze PLC Pharm,731,214,3501226.0,1,2,1,121,4,New
+Kunze PLC Pharma Plc,0,351,13453584.0,5,2,2,522,9,At Risk
+"Kuphal, D'Amore and Bode Pharm",0,409,28307927.0,5,5,5,555,15,Champions
+"Kuphal, D'Amore and Bode Pharmaceutical Ltd",731,187,3400026.0,1,1,1,111,3,Lost
+"Kuphal, D'Amore and Bode Pharmacy",0,418,15316826.0,5,5,3,553,13,Loyal
+"Kuphal, Herzog and Purdy ",0,421,40796789.0,5,5,5,555,15,Champions
+"Kuphal, Herzog and Purdy Pharmaceutical Limited",0,392,24833458.0,5,4,5,545,14,Champions
+"Kutch, Daniel and Ortiz Pharm",0,353,16809160.0,5,2,3,523,10,At Risk
+Kutch-Marks Pharm,731,191,3231751.0,1,1,1,111,3,Lost
+Kutch-Marks Pharma Plc,0,395,15513302.0,5,4,3,543,12,Loyal
+Kutch-Marks Pharmaceutical Limited,0,385,20617497.0,5,3,4,534,12,Loyal
+"Langworth, Olson and Satterfield Pharm",0,385,15772110.0,5,3,3,533,11,Loyal
+"Langworth, Olson and Satterfield Pharmacy",0,366,31072449.0,5,2,5,525,12,At Risk
+Leannon-West ,0,408,17512900.0,5,5,3,553,13,Loyal
+Leannon-West Pharmaceutical Limited,0,371,25826483.0,5,3,5,535,13,Loyal
+Leannon-West Pharmacy,731,205,2559759.0,1,1,1,111,3,Lost
+"Lebsack, Yost and Heller Pharma Plc",0,376,19922088.0,5,3,4,534,12,Loyal
+"Lebsack, Yost and Heller Pharmaceutical Limited",731,204,3206856.0,1,1,1,111,3,Lost
+Leffler-Russel Pharm,731,220,2379629.0,1,2,1,121,4,New
+Leffler-Russel Pharmaceutical Limited,0,420,25721319.0,5,5,5,555,15,Champions
+Leffler-Russel Pharmaceutical Ltd,0,390,20622800.0,5,4,4,544,13,Champions
+Legros-Runte Pharmaceutical Limited,0,374,16007135.102041,5,3,3,533,11,Loyal
+Legros-Runte Pharmaceutical Ltd,0,371,14770636.0,5,3,3,533,11,Loyal
+Lemke Ltd Pharm,731,186,2345679.0,1,1,1,111,3,Lost
+Lemke Ltd Pharma Plc,0,400,20699395.0,5,5,4,554,14,Champions
+Lemke Ltd Pharmaceutical Limited,0,404,15071628.0,5,5,3,553,13,Loyal
+Lesch PLC Pharma Plc,0,369,16539119.33198,5,2,3,523,10,At Risk
+Lesch PLC Pharmaceutical Ltd,731,213,3107873.0,1,2,1,121,4,New
+Lesch PLC Pharmacy,731,189,3230884.0,1,1,1,111,3,Lost
+Leuschke PLC Pharm,0,357,12135998.0,5,2,2,522,9,At Risk
+Leuschke PLC Pharmaceutical Ltd,0,382,17277381.0,5,3,3,533,11,Loyal
+Leuschke PLC Pharmacy,731,185,5137740.0,1,1,2,112,4,New
+"Leuschke, Waters and Schowalter Pharma Plc",0,399,20001994.0,5,4,4,544,13,Champions
+"Leuschke, Waters and Schowalter Pharmaceutical Ltd",731,206,4129060.0,1,1,2,112,4,New
+"Leuschke, Waters and Schowalter Pharmacy",0,378,23867707.0,5,3,5,535,13,Loyal
+Lindgren-Simonis Pharm,731,211,4571771.0,1,1,2,112,4,New
+Lindgren-Simonis Pharmacy,0,404,15471141.0,5,5,3,553,13,Loyal
+Lockman Ltd ,731,202,2957683.0,1,1,1,111,3,Lost
+Lockman Ltd Pharm,0,392,14684247.0,5,4,3,543,12,Loyal
+Lockman Ltd Pharma Plc,0,398,17461646.0,5,4,3,543,12,Loyal
+Lockman-Welch ,0,387,15920169.0,5,4,3,543,12,Loyal
+Lockman-Welch Pharm,731,193,2837300.0,1,1,1,111,3,Lost
+Lockman-Welch Pharmaceutical Limited,0,411,17335790.0,5,5,3,553,13,Loyal
+Mann-Waelchi Pharm,731,194,2728045.0,1,1,1,111,3,Lost
+Mann-Waelchi Pharma Plc,0,422,17692534.0,5,5,3,553,13,Loyal
+Mann-Waelchi Pharmacy,0,397,18720448.0,5,4,4,544,13,Champions
+Mante-Grady Pharm,731,214,3553977.0,1,2,1,121,4,New
+Mante-Grady Pharma Plc,0,384,18523791.0,5,3,4,534,12,Loyal
+Mante-Grady Pharmaceutical Ltd,0,372,16037517.0,5,3,3,533,11,Loyal
+Marquardt PLC ,0,398,18752095.0,5,4,4,544,13,Champions
+Marquardt PLC Pharmaceutical Ltd,0,373,13589800.0,5,3,2,532,10,At Risk
+Marquardt-Ryan Pharm,0,418,12679857.0,5,5,2,552,12,At Risk
+Marquardt-Ryan Pharma Plc,0,404,33961522.0,5,5,5,555,15,Champions
+Marquardt-Ryan Pharmaceutical Ltd,731,175,3454170.0,1,1,1,111,3,Lost
+Mayert-Weber ,0,381,15742177.0,5,3,3,533,11,Loyal
+Mayert-Weber Pharmaceutical Ltd,0,429,23393254.0,5,5,5,555,15,Champions
+"McClure, Zemlak and Dibbert Pharma Plc",731,189,3536029.0,1,1,1,111,3,Lost
+"McClure, Zemlak and Dibbert Pharmaceutical Limited",731,213,2530886.0,1,2,1,121,4,New
+"McClure, Zemlak and Dibbert Pharmacy",0,358,13354207.0,5,2,2,522,9,At Risk
+McCullough LLC Pharma Plc,731,206,3408632.0,1,1,1,111,3,Lost
+McCullough LLC Pharmaceutical Limited,0,391,13922199.0,5,4,2,542,11,At Risk
+McCullough LLC Pharmaceutical Ltd,0,370,26009596.0,5,2,5,525,12,At Risk
+McDermott Group Pharmaceutical Ltd,0,409,18297390.0,5,5,4,554,14,Champions
+McDermott Group Pharmacy,0,392,15516544.0,5,4,3,543,12,Loyal
+McDermott Inc Pharma Plc,0,427,29943117.0,5,5,5,555,15,Champions
+McDermott Inc Pharmacy,0,404,31550539.0,5,5,5,555,15,Champions
+McKenzie-Zemlak Pharm,0,418,17622490.8,5,5,3,553,13,Loyal
+McKenzie-Zemlak Pharma Plc,0,393,28444161.0,5,4,5,545,14,Champions
+Medhurst-Beer ,0,401,19090504.0,5,5,4,554,14,Champions
+Medhurst-Beer Pharm,0,376,28268206.0,5,3,5,535,13,Loyal
+Medhurst-Beer Pharmaceutical Limited,731,157,3694840.0,1,1,1,111,3,Lost
+Miller-Satterfield Pharm,0,388,16786054.0,5,4,3,543,12,Loyal
+Miller-Satterfield Pharma Plc,731,210,3091263.0,1,1,1,111,3,Lost
+Miller-Satterfield Pharmaceutical Limited,0,420,21825298.0,5,5,4,554,14,Champions
+Mills Inc Pharma Plc,731,195,4170514.0,1,1,2,112,4,New
+Mills Inc Pharmaceutical Ltd,0,385,45939009.0,5,3,5,535,13,Loyal
+Mills Inc Pharmacy,0,385,24461745.0,5,3,5,535,13,Loyal
+"Moen, Murazik and Smith ",731,196,4581024.0,1,1,2,112,4,New
+"Moen, Murazik and Smith Pharm",0,395,50885320.0,5,4,5,545,14,Champions
+"Moen, Murazik and Smith Pharmaceutical Ltd",0,392,17536137.8882,5,4,3,543,12,Loyal
+Monahan Ltd ,731,191,2596736.0,1,1,1,111,3,Lost
+Monahan Ltd Pharma Plc,0,392,22617294.0,5,4,5,545,14,Champions
+Monahan Ltd Pharmaceutical Ltd,0,400,18213409.0,5,5,4,554,14,Champions
+Moore PLC Pharm,0,344,11821594.0,5,2,2,522,9,At Risk
+Moore PLC Pharmaceutical Ltd,731,181,2513717.0,1,1,1,111,3,Lost
+Mraz Group Pharma Plc,0,400,23133178.0,5,5,5,555,15,Champions
+Mraz Group Pharmaceutical Limited,0,376,20423132.0,5,3,4,534,12,Loyal
+Mraz Group Pharmacy,731,212,3907690.0,1,1,1,111,3,Lost
+Mraz-Kutch Pharm,731,199,2262808.0,1,1,1,111,3,Lost
+Mraz-Kutch Pharma Plc,0,378,93561780.0,5,3,5,535,13,Loyal
+Mraz-Kutch Pharmacy,0,393,11938923.0,5,4,2,542,11,At Risk
+Murray PLC ,0,390,12013852.0,5,4,2,542,11,At Risk
+Murray PLC Pharma Plc,0,404,21289048.0,5,5,4,554,14,Champions
+Nader-Borer Pharm,0,402,25575623.0,5,5,5,555,15,Champions
+Nader-Borer Pharma Plc,731,230,5079190.0,1,2,2,122,5,New
+Nader-Borer Pharmaceutical Limited,0,381,13453890.0,5,3,2,532,10,At Risk
+Nader-Gaylord Pharmaceutical Limited,731,205,3707047.0,1,1,1,111,3,Lost
+Nader-Gaylord Pharmaceutical Ltd,731,229,6200373.0,1,2,2,122,5,New
+Nader-Gaylord Pharmacy,0,372,17267414.0,5,3,3,533,11,Loyal
+"Nitzsche, Effertz and Maggio ",0,417,25339434.0,5,5,5,555,15,Champions
+"Nitzsche, Effertz and Maggio Pharmaceutical Limited",0,418,23174533.0,5,5,5,555,15,Champions
+"Nitzsche, Effertz and Maggio Pharmacy",731,224,5223760.0,1,2,2,122,5,New
+"Nolan, DuBuque and Schultz ",0,434,16112843.0,5,5,3,553,13,Loyal
+"Nolan, DuBuque and Schultz Pharm",731,178,3343612.0,1,1,1,111,3,Lost
+"Nolan, DuBuque and Schultz Pharmacy",0,396,18873464.0,5,4,4,544,13,Champions
+Okuneva-Corkery ,731,192,2095542.0,1,1,1,111,3,Lost
+Okuneva-Corkery Pharm,0,392,21323000.0,5,4,4,544,13,Champions
+Okuneva-Corkery Pharma Plc,0,371,16840527.0,5,3,3,533,11,Loyal
+Ondricka Ltd ,0,369,16207564.0,5,2,3,523,10,At Risk
+Ondricka Ltd Pharmaceutical Ltd,0,345,12670917.0,5,2,2,522,9,At Risk
+Ondricka Ltd Pharmacy,731,187,4578864.0,1,1,2,112,4,New
+"Ondricka, Rosenbaum and Beahan ",731,233,4642387.0,1,2,2,122,5,New
+"Ondricka, Rosenbaum and Beahan Pharm",0,356,17649861.46154,5,2,3,523,10,At Risk
+Ondricka-Waters Pharmaceutical Limited,0,388,11726828.0,5,4,2,542,11,At Risk
+Ondricka-Waters Pharmaceutical Ltd,0,388,19729526.0,5,4,4,544,13,Champions
+Osinski-Botsford Pharm,0,389,17335979.0,5,4,3,543,12,Loyal
+Osinski-Botsford Pharmacy,0,371,16144534.0,5,3,3,533,11,Loyal
+Osinski-Collins ,0,375,28011167.0,5,3,5,535,13,Loyal
+Osinski-Collins Pharma Plc,0,356,16098974.0,5,2,3,523,10,At Risk
+Osinski-Collins Pharmaceutical Ltd,731,212,3884234.8,1,1,1,111,3,Lost
+Parisian Ltd Pharm,731,204,3381766.0,1,1,1,111,3,Lost
+Parisian Ltd Pharma Plc,0,407,15635527.0,5,5,3,553,13,Loyal
+Parisian Ltd Pharmacy,0,378,14442606.0,5,3,2,532,10,At Risk
+"Parisian, Hagenes and Skiles Pharm",0,372,21430428.0,5,3,4,534,12,Loyal
+"Parisian, Hagenes and Skiles Pharma Plc",731,208,2946576.0,1,1,1,111,3,Lost
+"Parisian, Hagenes and Skiles Pharmacy",0,350,13925511.0,5,2,2,522,9,At Risk
+"Parker, Green and Emmerich Pharma Plc",0,398,64890501.0,5,4,5,545,14,Champions
+"Parker, Green and Emmerich Pharmacy",0,369,29336133.0,5,2,5,525,12,At Risk
+Paucek PLC ,0,364,16824928.0,5,2,3,523,10,At Risk
+Paucek PLC Pharm,0,396,15993869.0,5,4,3,543,12,Loyal
+"Paucek, Keeling and Bruen Pharm",731,190,2835262.0,1,1,1,111,3,Lost
+"Paucek, Keeling and Bruen Pharma Plc",0,395,18632011.0,5,4,4,544,13,Champions
+"Paucek, Keeling and Bruen Pharmaceutical Limited",0,393,16291044.0,5,4,3,543,12,Loyal
+Pfannerstill Group ,0,406,18414251.0,5,5,4,554,14,Champions
+Pfannerstill Group Pharmaceutical Limited,0,390,16547668.0,5,4,3,543,12,Loyal
+Pfannerstill Group Pharmaceutical Ltd,731,180,2627854.0,1,1,1,111,3,Lost
+"Pfannerstill, Upton and Balistreri Pharm",0,416,12344160.0,5,5,2,552,12,At Risk
+"Pfannerstill, Upton and Balistreri Pharmacy",0,360,17983292.0,5,2,4,524,11,At Risk
+Pfeffer-Hodkiewicz ,0,387,16313574.0,5,4,3,543,12,Loyal
+Pfeffer-Hodkiewicz Pharm,0,376,15917456.0,5,3,3,533,11,Loyal
+Pfeffer-Hodkiewicz Pharmaceutical Ltd,731,211,1679772.0,1,1,1,111,3,Lost
+Pfeffer-Kirlin Pharmaceutical Limited,0,409,19226447.57143,5,5,4,554,14,Champions
+Pfeffer-Kirlin Pharmacy,0,386,16240979.0,5,4,3,543,12,Loyal
+Powlowski-Buckridge ,0,380,21966431.0,5,3,4,534,12,Loyal
+Powlowski-Buckridge Pharma Plc,731,205,4039277.0,1,1,2,112,4,New
+Powlowski-Buckridge Pharmacy,0,391,25692654.0,5,4,5,545,14,Champions
+Predovic LLC Pharmaceutical Limited,0,410,35118268.0,5,5,5,555,15,Champions
+Predovic LLC Pharmaceutical Ltd,0,376,18361211.0,5,3,4,534,12,Loyal
+"Prohaska, Bogisich and Gutkowski Pharm",0,405,19023462.0,5,5,4,554,14,Champions
+"Prohaska, Bogisich and Gutkowski Pharmaceutical Limited",0,387,37037760.0,5,4,5,545,14,Champions
+Prohaska-Kuhic Pharma Plc,0,396,17250473.0,5,4,3,543,12,Loyal
+Prohaska-Kuhic Pharmaceutical Limited,0,376,15249768.0,5,3,3,533,11,Loyal
+Prohaska-Kuhic Pharmacy,731,192,3101884.0,1,1,1,111,3,Lost
+Purdy Ltd ,0,397,13411245.0,5,4,2,542,11,At Risk
+Purdy Ltd Pharm,0,366,20906037.0,5,2,4,524,11,At Risk
+Purdy Ltd Pharmaceutical Limited,731,190,5462556.0,1,1,2,112,4,New
+Quigley-Heathcote Pharm,0,358,21522816.0,5,2,4,524,11,At Risk
+Quigley-Heathcote Pharmaceutical Ltd,0,365,28708135.0,5,2,5,525,12,At Risk
+Raynor LLC Pharm,0,378,21622957.0,5,3,4,534,12,Loyal
+Raynor LLC Pharmaceutical Limited,0,362,26220594.0,5,2,5,525,12,At Risk
+Raynor-Graham ,0,392,40464749.0,5,4,5,545,14,Champions
+Raynor-Graham Pharma Plc,0,373,19343253.0,5,3,4,534,12,Loyal
+Raynor-Graham Pharmaceutical Limited,731,226,2624693.0,1,2,1,121,4,New
+Reichel Inc ,0,358,43495626.0,5,2,5,525,12,At Risk
+Reichel Inc Pharm,0,382,15055189.0,5,3,3,533,11,Loyal
+Reilly Ltd ,731,186,3627565.0,1,1,1,111,3,Lost
+Reilly Ltd Pharma Plc,0,420,21219227.30669,5,5,4,554,14,Champions
+Reilly Ltd Pharmacy,0,425,34834844.0,5,5,5,555,15,Champions
+Reinger Group Pharma Plc,0,359,17164814.0,5,2,3,523,10,At Risk
+Reinger Group Pharmaceutical Limited,0,385,18358327.0,5,3,4,534,12,Loyal
+"Reinger, Kihn and Goyette Pharma Plc",0,408,19778627.0,5,5,4,554,14,Champions
+"Reinger, Kihn and Goyette Pharmaceutical Limited",0,341,22515286.0,5,2,5,525,12,At Risk
+"Reynolds, Jast and Mante ",0,410,21740500.0,5,5,4,554,14,Champions
+"Reynolds, Jast and Mante Pharm",0,393,20640886.0,5,4,4,544,13,Champions
+"Reynolds, Jast and Mante Pharma Plc",731,182,2595109.0,1,1,1,111,3,Lost
+Ritchie-Rodriguez Pharm,731,210,4467582.0,1,1,2,112,4,New
+Ritchie-Rodriguez Pharmacy,0,397,17239990.0,5,4,3,543,12,Loyal
+"Rodriguez, Stokes and Dickens ",0,371,20541665.0,5,3,4,534,12,Loyal
+"Rodriguez, Stokes and Dickens Pharma Plc",0,402,23460867.0,5,5,5,555,15,Champions
+Rogahn-Klein Pharm,0,376,13172559.0,5,3,2,532,10,At Risk
+Rogahn-Klein Pharma Plc,0,422,23135473.0,5,5,5,555,15,Champions
+Rogahn-Klein Pharmacy,731,216,2311818.0,1,2,1,121,4,New
+Rohan Inc ,731,208,3926971.0,1,1,1,111,3,Lost
+Rohan Inc Pharm,0,370,19951746.0,5,2,4,524,11,At Risk
+Rohan Inc Pharmaceutical Limited,0,390,22613614.0,5,4,5,545,14,Champions
+Rohan PLC Pharmaceutical Limited,731,194,2521239.0,1,1,1,111,3,Lost
+Rohan PLC Pharmacy,0,378,13978216.0,5,3,2,532,10,At Risk
+Rohan and Sons Pharma Plc,0,409,21305652.0,5,5,4,554,14,Champions
+Rohan and Sons Pharmaceutical Limited,0,378,11842430.0,5,3,2,532,10,At Risk
+"Romaguera, Moen and Hagenes Pharm",0,401,21255149.0,5,5,4,554,14,Champions
+"Romaguera, Moen and Hagenes Pharmaceutical Limited",731,188,3111337.0,1,1,1,111,3,Lost
+"Romaguera, Moen and Hagenes Pharmacy",0,420,42066659.9681,5,5,5,555,15,Champions
+Romaguera-Fay Pharmaceutical Limited,731,199,3329758.0,1,1,1,111,3,Lost
+Romaguera-Fay Pharmaceutical Ltd,0,354,21247656.0,5,2,4,524,11,At Risk
+Roob PLC ,731,189,4390668.0,1,1,2,112,4,New
+Roob PLC Pharm,0,415,20926781.0,5,5,4,554,14,Champions
+Roob PLC Pharmaceutical Limited,0,393,22007985.0,5,4,4,544,13,Champions
+"Roob, Ernser and Kub Pharmaceutical Limited",731,191,4206718.0,1,1,2,112,4,New
+"Roob, Ernser and Kub Pharmaceutical Ltd",0,355,10990529.0,5,2,2,522,9,At Risk
+"Roob, Ernser and Kub Pharmacy",0,405,17692456.0,5,5,3,553,13,Loyal
+"Rosenbaum, Klein and Herzog ",731,195,2864547.0,1,1,1,111,3,Lost
+"Rosenbaum, Klein and Herzog Pharma Plc",0,376,15130196.0,5,3,3,533,11,Loyal
+"Rosenbaum, Klein and Herzog Pharmaceutical Ltd",0,378,14918650.0,5,3,3,533,11,Loyal
+Rosenbaum-Tromp Pharm,0,376,14675189.0,5,3,3,533,11,Loyal
+Rosenbaum-Tromp Pharmacy,0,367,26339532.0,5,2,5,525,12,At Risk
+Rowe PLC ,0,410,15353117.0,5,5,3,553,13,Loyal
+Rowe PLC Pharm,0,373,21546337.0,5,3,4,534,12,Loyal
+Rowe PLC Pharmaceutical Ltd,731,204,2271736.0,1,1,1,111,3,Lost
+"Runolfsson, Swaniawski and Jaskolski Pharmaceutical Limited",0,387,36479210.0,5,4,5,545,14,Champions
+"Runolfsson, Swaniawski and Jaskolski Pharmacy",731,216,3043450.0,1,2,1,121,4,New
+Runolfsson-Halvorson Pharm,0,407,31642569.0,5,5,5,555,15,Champions
+Runolfsson-Halvorson Pharmacy,0,399,17223509.0,5,4,3,543,12,Loyal
+Runolfsson-Powlowski Pharmaceutical Limited,0,380,14949597.0,5,3,3,533,11,Loyal
+Runolfsson-Powlowski Pharmacy,0,391,30369421.0,5,4,5,545,14,Champions
+Runte-Marquardt Pharm,0,382,17661974.0,5,3,3,533,11,Loyal
+Runte-Marquardt Pharmaceutical Ltd,731,201,3158566.0,1,1,1,111,3,Lost
+Runte-Marquardt Pharmacy,0,361,21319134.0,5,2,4,524,11,At Risk
+Rutherford and Sons ,731,209,4480098.0,1,1,2,112,4,New
+Rutherford and Sons Pharm,0,411,28046966.0,5,5,5,555,15,Champions
+Rutherford and Sons Pharmaceutical Ltd,0,401,19824807.0,5,5,4,554,14,Champions
+"Sanford, Franecki and Greenholt ",731,223,3070886.0,1,2,1,121,4,New
+"Sanford, Franecki and Greenholt Pharma Plc",0,374,19908055.0,5,3,4,534,12,Loyal
+"Sanford, Franecki and Greenholt Pharmaceutical Ltd",0,400,20610430.0,5,5,4,554,14,Champions
+Sauer and Sons ,0,372,13536070.0,5,3,2,532,10,At Risk
+Sauer and Sons Pharmaceutical Limited,731,208,2973298.0,1,1,1,111,3,Lost
+Sauer and Sons Pharmacy,0,335,15935851.0,5,2,3,523,10,At Risk
+Sauer-Herzog Pharmaceutical Limited,0,370,23371565.0,5,2,5,525,12,At Risk
+Sauer-Herzog Pharmacy,0,388,16994328.0,5,4,3,543,12,Loyal
+Schaden-Hirthe ,0,354,12523819.0,5,2,2,522,9,At Risk
+Schaden-Hirthe Pharmaceutical Ltd,731,205,3352381.0,1,1,1,111,3,Lost
+Schaefer Group ,0,373,23902163.2,5,3,5,535,13,Loyal
+Schaefer Group Pharmaceutical Limited,731,209,2989447.0,1,1,1,111,3,Lost
+Schaefer Group Pharmaceutical Ltd,0,349,14974616.0,5,2,3,523,10,At Risk
+Schaefer LLC Pharma Plc,0,360,14407122.0,5,2,2,522,9,At Risk
+Schaefer LLC Pharmacy,731,189,2620098.0,1,1,1,111,3,Lost
+Schaefer-Rolfson ,731,162,2631811.0,1,1,1,111,3,Lost
+Schaefer-Rolfson Pharma Plc,0,389,15895407.0,5,4,3,543,12,Loyal
+Schaefer-Rolfson Pharmacy,0,414,25752521.0,5,5,5,555,15,Champions
+Schimmel-Waelchi Pharma Plc,0,382,17911176.0,5,3,3,533,11,Loyal
+Schimmel-Waelchi Pharmaceutical Limited,0,422,18476676.0,5,5,4,554,14,Champions
+Schimmel-Waelchi Pharmaceutical Ltd,731,210,2377130.0,1,1,1,111,3,Lost
+"Schinner, Gaylord and Treutel Pharmaceutical Limited",0,354,11028227.0,5,2,2,522,9,At Risk
+"Schinner, Gaylord and Treutel Pharmaceutical Ltd",731,207,2690295.0,1,1,1,111,3,Lost
+"Schinner, Gaylord and Treutel Pharmacy",0,380,12306464.0,5,3,2,532,10,At Risk
+Schmitt LLC Pharm,731,217,3341084.0,1,2,1,121,4,New
+Schmitt LLC Pharma Plc,0,395,18286334.0,5,4,4,544,13,Champions
+"Schmitt, Berge and Haley Pharma Plc",731,193,2384835.0,1,1,1,111,3,Lost
+"Schmitt, Berge and Haley Pharmaceutical Ltd",0,386,19608106.0,5,4,4,544,13,Champions
+"Schowalter, Runolfsson and VonRueden Pharmaceutical Limited",0,397,31069500.0,5,4,5,545,14,Champions
+"Schowalter, Runolfsson and VonRueden Pharmaceutical Ltd",731,220,4480859.0,1,2,2,122,5,New
+Schulist LLC Pharmaceutical Limited,0,372,21735153.778894,5,3,4,534,12,Loyal
+Schulist-Zulauf ,0,410,28393501.0,5,5,5,555,15,Champions
+Schulist-Zulauf Pharm,731,195,2726406.0,1,1,1,111,3,Lost
+Schulist-Zulauf Pharmaceutical Ltd,0,395,17355962.0,5,4,3,543,12,Loyal
+Schuppe Inc ,0,386,18530700.0,5,4,4,544,13,Champions
+Schuppe Inc Pharm,0,397,25768671.0,5,4,5,545,14,Champions
+Senger-Kirlin Pharma Plc,0,360,18104944.0,5,2,4,524,11,At Risk
+Senger-Kirlin Pharmaceutical Ltd,0,389,33714954.0,5,4,5,545,14,Champions
+Senger-Kirlin Pharmacy,731,211,2918224.0,1,1,1,111,3,Lost
+Sipes and Sons Pharma Plc,0,359,16316094.0,5,2,3,523,10,At Risk
+Sipes and Sons Pharmaceutical Limited,0,375,14964183.0,5,3,3,533,11,Loyal
+Skiles-McKenzie Pharmaceutical Limited,0,349,26418367.0,5,2,5,525,12,At Risk
+Skiles-McKenzie Pharmacy,0,408,18389344.0,5,5,4,554,14,Champions
+Smith Inc Pharm,0,338,13889587.0,5,2,2,522,9,At Risk
+Smith Inc Pharmacy,0,403,30887275.0,5,5,5,555,15,Champions
+Spencer-Jerde Pharmaceutical Limited,0,426,19269849.0,5,5,4,554,14,Champions
+Spencer-Jerde Pharmacy,731,210,3830684.0,1,1,1,111,3,Lost
+"Spinka, Schowalter and Conn ",0,440,21604758.0,5,5,4,554,14,Champions
+"Spinka, Schowalter and Conn Pharma Plc",0,393,28704816.0,5,4,5,545,14,Champions
+"Spinka, Schowalter and Conn Pharmaceutical Limited",731,193,3752993.0,1,1,1,111,3,Lost
+Stanton-Cole ,731,181,3577304.0,1,1,1,111,3,Lost
+Stanton-Cole Pharma Plc,0,389,16630149.0,5,4,3,543,12,Loyal
+Stanton-Cole Pharmacy,0,396,19043192.0,5,4,4,544,13,Champions
+Stehr-Champlin Pharmaceutical Limited,731,220,2413607.0,1,2,1,121,4,New
+Stehr-Champlin Pharmacy,0,377,37465602.0,5,3,5,535,13,Loyal
+Steuber Ltd Pharm,0,380,16006057.0,5,3,3,533,11,Loyal
+Steuber Ltd Pharmaceutical Limited,0,367,17510886.0,5,2,3,523,10,At Risk
+Steuber Ltd Pharmacy,731,193,2676869.0,1,1,1,111,3,Lost
+"Steuber, Hills and Botsford ",0,404,22559996.0,5,5,5,555,15,Champions
+"Steuber, Hills and Botsford Pharma Plc",0,361,17795955.0,5,2,3,523,10,At Risk
+"Steuber, Skiles and Kilback Pharma Plc",731,210,4182127.0,1,1,2,112,4,New
+"Steuber, Skiles and Kilback Pharmaceutical Limited",0,377,20126180.0,5,3,4,534,12,Loyal
+"Steuber, Skiles and Kilback Pharmacy",0,402,21145446.0,5,5,4,554,14,Champions
+Streich PLC ,0,362,44454616.0,5,2,5,525,12,At Risk
+Streich PLC Pharm,0,361,25646105.0,5,2,5,525,12,At Risk
+Streich PLC Pharmaceutical Limited,731,214,5287741.0,1,2,2,122,5,New
+Terry-Kub Pharma Plc,0,395,17495713.0,5,4,3,543,12,Loyal
+Terry-Kub Pharmaceutical Ltd,0,400,18492869.0,5,5,4,554,14,Champions
+Tillman Group Pharma Plc,0,376,22217841.0,5,3,5,535,13,Loyal
+Tillman Group Pharmaceutical Limited,0,381,12103140.0,5,3,2,532,10,At Risk
+Torp-Fisher ,0,351,24617043.0,5,2,5,525,12,At Risk
+Torp-Fisher Pharma Plc,731,221,4160580.0,1,2,2,122,5,New
+"Torphy, Pfeffer and Jakubowski Pharm",0,385,41514215.0,5,4,5,545,14,Champions
+"Torphy, Pfeffer and Jakubowski Pharmaceutical Ltd",0,405,13807772.0,5,5,2,552,12,At Risk
+"Towne, Cummerata and Blanda Pharm",731,177,4477560.0,1,1,2,112,4,New
+"Towne, Cummerata and Blanda Pharmaceutical Limited",0,380,15651019.0,5,3,3,533,11,Loyal
+"Towne, Cummerata and Blanda Pharmaceutical Ltd",0,371,20408392.0,5,3,4,534,12,Loyal
+Trantow LLC Pharm,0,423,14220908.0,5,5,2,552,12,At Risk
+Trantow LLC Pharma Plc,731,183,3768587.0,1,1,1,111,3,Lost
+Trantow LLC Pharmacy,0,388,24450589.0,5,4,5,545,14,Champions
+Turner Ltd ,0,382,18452148.0,5,3,4,534,12,Loyal
+Turner Ltd Pharmacy,0,376,22473558.0,5,3,5,535,13,Loyal
+Upton PLC Pharma Plc,0,408,15306351.0,5,5,3,553,13,Loyal
+Upton PLC Pharmaceutical Limited,0,352,15827332.0,5,2,3,523,10,At Risk
+"Upton, Abernathy and Goodwin Pharm",0,407,16472204.0,5,5,3,553,13,Loyal
+"Upton, Abernathy and Goodwin Pharmaceutical Limited",0,368,12302834.0,5,2,2,522,9,At Risk
+"Upton, Abernathy and Goodwin Pharmaceutical Ltd",731,217,2971636.0,1,2,1,121,4,New
+Vandervort LLC Pharm,0,387,14647896.0,5,4,2,542,11,At Risk
+Vandervort LLC Pharma Plc,731,212,4184133.0,1,2,2,122,5,New
+Vandervort LLC Pharmaceutical Ltd,0,369,20964778.0,5,2,4,524,11,At Risk
+Veum and Sons Pharmaceutical Limited,0,395,26826785.0,5,4,5,545,14,Champions
+Veum and Sons Pharmaceutical Ltd,0,406,26177593.0,5,5,5,555,15,Champions
+Veum-Kerluke Pharma Plc,0,391,15752854.0,5,4,3,543,12,Loyal
+Veum-Kerluke Pharmacy,731,186,2832805.0,1,1,1,111,3,Lost
+VonRueden-Adams Pharm,0,405,18137914.0,5,5,4,554,14,Champions
+VonRueden-Adams Pharmaceutical Limited,0,396,14591022.0,5,4,2,542,11,At Risk
+Waelchi LLC Pharm,0,384,14555977.0,5,3,2,532,10,At Risk
+Waelchi LLC Pharmaceutical Limited,0,378,18456035.81377,5,3,4,534,12,Loyal
+Waelchi LLC Pharmacy,731,203,3168766.0,1,1,1,111,3,Lost
+Walsh-Brown Pharma Plc,0,394,15306204.0,5,4,3,543,12,Loyal
+Walsh-Brown Pharmaceutical Ltd,0,369,21140465.658291,5,2,4,524,11,At Risk
+Walsh-Brown Pharmacy,731,198,4516298.0,1,1,2,112,4,New
+Walter Ltd ,731,191,2232664.0,1,1,1,111,3,Lost
+Walter Ltd Pharmaceutical Limited,0,358,13129692.52764,5,2,2,522,9,At Risk
+Ward Group Pharm,0,380,13188028.0,5,3,2,532,10,At Risk
+Ward Group Pharma Plc,0,399,20697185.0,5,4,4,544,13,Champions
+Ward Group Pharmaceutical Limited,731,186,4787357.0,1,1,2,112,4,New
+"Watsica, Larson and Labadie Pharma Plc",0,371,17505127.0,5,3,3,533,11,Loyal
+"Watsica, Larson and Labadie Pharmaceutical Ltd",0,402,30633647.0,5,5,5,555,15,Champions
+Watsica-Kovacek Pharmaceutical Ltd,0,371,21523843.0,5,3,4,534,12,Loyal
+Watsica-Kovacek Pharmacy,0,390,21508807.0,5,4,4,544,13,Champions
+Weber Ltd Pharmaceutical Ltd,0,436,16649251.0,5,5,3,553,13,Loyal
+Weber Ltd Pharmacy,0,370,13939423.0,5,2,2,522,9,At Risk
+Wehner-Stehr ,0,393,33097541.0,5,4,5,545,14,Champions
+Wehner-Stehr Pharm,0,387,13605696.0,5,4,2,542,11,At Risk
+Welch-Langworth ,731,198,2674619.0,1,1,1,111,3,Lost
+Welch-Langworth Pharm,0,391,13016333.0,5,4,2,542,11,At Risk
+Welch-Orn ,731,189,4375067.0,1,1,2,112,4,New
+Welch-Orn Pharm,0,419,17144623.0,5,5,3,553,13,Loyal
+Welch-Orn Pharmacy,0,402,13905998.0,5,5,2,552,12,At Risk
+West Group Pharm,0,368,14837356.0,5,2,3,523,10,At Risk
+West Group Pharma Plc,0,407,13001329.0,5,5,2,552,12,At Risk
+West Group Pharmacy,731,191,2260025.0,1,1,1,111,3,Lost
+White Inc Pharm,0,401,20542811.0,5,5,4,554,14,Champions
+White Inc Pharmacy,0,389,14110472.0,5,4,2,542,11,At Risk
+"Wiegand, Jast and Yost ",0,390,15396422.0,5,4,3,543,12,Loyal
+"Wiegand, Jast and Yost Pharma Plc",731,164,1796446.0,1,1,1,111,3,Lost
+"Wiegand, Jast and Yost Pharmaceutical Ltd",0,392,33075207.0,5,4,5,545,14,Champions
+Will and Sons Pharma Plc,731,200,2547983.0,1,1,1,111,3,Lost
+Will and Sons Pharmaceutical Limited,731,191,3773857.0,1,1,1,111,3,Lost
+Will and Sons Pharmacy,0,386,21770674.0,5,4,4,544,13,Champions
+"Will, McGlynn and Fritsch Pharmaceutical Limited",0,400,15624628.0,5,5,3,553,13,Loyal
+"Will, McGlynn and Fritsch Pharmaceutical Ltd",0,367,14912794.0,5,2,3,523,10,At Risk
+"Wintheiser, Breitenberg and Gottlieb ",0,383,16754942.0,5,3,3,533,11,Loyal
+"Wintheiser, Breitenberg and Gottlieb Pharma Plc",0,397,19647009.0,5,4,4,544,13,Champions
+"Wintheiser, Breitenberg and Gottlieb Pharmaceutical Limited",731,191,4176930.0,1,1,2,112,4,New
+"Wisozk, Brekke and Bartoletti ",0,386,14805318.0,5,4,3,543,12,Loyal
+"Wisozk, Brekke and Bartoletti Pharmacy",0,408,18179497.0,5,5,4,554,14,Champions
+Wolff Group ,0,402,14111671.0,5,5,2,552,12,At Risk
+Wolff Group Pharm,731,202,2712648.0,1,1,1,111,3,Lost
+Wolff Group Pharmaceutical Ltd,0,391,14092909.0,5,4,2,542,11,At Risk
+"Wuckert, Kreiger and Howell ",0,409,17876232.0,5,5,3,553,13,Loyal
+"Wuckert, Kreiger and Howell Pharma Plc",0,409,25290286.0,5,5,5,555,15,Champions
+"Wunsch, Mills and Walter ",731,206,2757470.0,1,1,1,111,3,Lost
+"Wunsch, Mills and Walter Pharm",0,384,21947346.0,5,3,4,534,12,Loyal
+"Wunsch, Mills and Walter Pharmaceutical Limited",0,374,23000519.0,5,3,5,535,13,Loyal
+"Yundt, Leuschke and Ward ",0,408,16091963.0,5,5,3,553,13,Loyal
+"Yundt, Leuschke and Ward Pharma Plc",0,350,18451676.0,5,2,4,524,11,At Risk
+"Yundt, Leuschke and Ward Pharmaceutical Ltd",731,202,3029636.0,1,1,1,111,3,Lost
+Yundt-Crona Pharm,0,420,22630547.0,5,5,5,555,15,Champions
+Yundt-Crona Pharmaceutical Ltd,731,210,2667767.0,1,1,1,111,3,Lost
+Zemlak Group Pharm,0,372,30580526.0,5,3,5,535,13,Loyal
+Zemlak Group Pharmaceutical Limited,731,222,2228898.0,1,2,1,121,4,New
+Zemlak Group Pharmacy,0,402,12872896.110553,5,5,2,552,12,At Risk
+Zemlak-Witting ,0,386,56006680.0,5,4,5,545,14,Champions
+Zemlak-Witting Pharmaceutical Limited,0,369,11948953.0,5,2,2,522,9,At Risk
+Zemlak-Witting Pharmacy,731,213,3125023.0,1,2,1,121,4,New
+"Zieme, Doyle and Kunze ",731,196,2726368.0,1,1,1,111,3,Lost
+"Zieme, Doyle and Kunze Pharm",0,370,25305007.0,5,3,5,535,13,Loyal
+"Zieme, Doyle and Kunze Pharmacy",0,368,14150953.0,5,2,2,522,9,At Risk
