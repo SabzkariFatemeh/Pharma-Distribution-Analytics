@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (raw data - too large or contains sensitive info)
+data/*.csv
+data/*.xlsx
+!data/rfm_results.csv
+
+# Images (keep them for GitHub)
+# images/*.png
+
+# OS garbage
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
